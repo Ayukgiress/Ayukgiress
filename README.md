@@ -85,7 +85,69 @@
 </p>
 
 <div align="center">
+## 🚀 Featured Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ayukgiress&color=6E57F7&style=for-the-badge)
+<div align="center">
+
+---
+
+### 🔥 TaskyDev
+
+<p>
+A modern task management application built to help developers and teams organize, track, and complete tasks efficiently.
+</p>
+
+<a href="https://taskydev.vercel.app/" target="_blank">🌍 Live Demo</a>
+&nbsp; | &nbsp;
+<a href="https://github.com/Ayukgiress/UPTRACK" target="_blank">📂 Source Code</a>
+
+<br/><br/>
+
+<img src="https://github.com/Ayukgiress/UPTRACK/blob/dev/Screenshot%20from%202026-03-02%2012-57-48.png?raw=true" width="800"/>
+
+<br/><br/>
+
+Tech Used: React · TypeScript · Node.js · MongoDB · TailwindCSS · Vercel
+
+---
+
+### 🔥 NoSlack
+
+<p>
+A fitness tracker platform designed for calories consumed and burned either by recorded workout or meal consumed.
+</p>
+
+<a href="https://noslack.vercel.app/" target="_blank">🌍 Live Demo</a>
+&nbsp; | &nbsp;
+<a href="https://github.com/Ayukgiress/FITTRACK" target="_blank">📂 Source Code</a>
+
+<br/><br/>
+
+<img src="https://github.com/Ayukgiress/FITTRACK/blob/development/Screenshot%20from%202026-03-02%2012-55-15.png?raw=true" width="800"/>
+<br/><br/>
+
+Tech Used: Next.js · TypeScript · PostgreSQL · Prisma · TailwindCSS · Vercel
+
+---
+
+### 🔥 VotHub
+
+<p>
+An interactive voting platform that enables users to create polls, vote in real time, and view dynamic results instantly.
+</p>
+
+<a href="https://vothub.vercel.app/" target="_blank">🌍 Live Demo</a>
+&nbsp; | &nbsp;
+<a href="https://github.com/Ayukgiress/Vote-Platform" target="_blank">📂 Source Code</a>
+
+<br/><br/>
+
+<img src="https://github.com/Ayukgiress/Vote-Platform/blob/main/Screenshot%20from%202026-03-02%2012-54-40.png?raw=true" width="800"/>
+
+<br/><br/>
+
+Tech Used: React · Express · MongoDB · TailwindCSS · Render
+
+</div>
 
 </div>
