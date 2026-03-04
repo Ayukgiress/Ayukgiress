@@ -51,6 +51,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Databases & Cloud**
 
@@ -74,17 +75,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayukgiress&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayukgiress&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayukgiress&theme=tokyonight" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayukgiress&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayukgiress&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayukgiress&theme=tokyonight" width="66%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayukgiress&theme=tokyonight&utcOffset=1" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayukgiress&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
-<div align="center">
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -124,6 +124,7 @@ A fitness tracker platform designed for calories consumed and burned either by r
 <br/><br/>
 
 <img src="https://github.com/Ayukgiress/FITTRACK/blob/development/Screenshot%20from%202026-03-02%2012-55-15.png?raw=true" width="800"/>
+
 <br/><br/>
 
 Tech Used: Next.js · TypeScript · PostgreSQL · Prisma · TailwindCSS · Vercel
@@ -147,7 +148,5 @@ An interactive voting platform that enables users to create polls, vote in real 
 <br/><br/>
 
 Tech Used: React · Express · MongoDB · TailwindCSS · Render
-
-</div>
 
 </div>
