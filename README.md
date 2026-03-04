@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Ayuk Giress
+# Hi 👋 I am called Ayuk Giress
 
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-Full%20Stack-6E57F7?style=for-the-badge)
 ![Location](https://img.shields.io/badge/📍-Yaounde%2C%20Cameroon-0d1117?style=for-the-badge)
